@@ -1,0 +1,38 @@
+[I 2026-01-22 15:53:16.964 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-01-22 15:53:16.965 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-01-22 15:53:16.967 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-01-22 15:53:16.967 ServerApp] jupyterlab_nvdashboard | extension was successfully linked.
+[I 2026-01-22 15:53:16.967 ServerApp] jupyterlab_nvidia_nsight | extension was successfully linked.
+[I 2026-01-22 15:53:17.074 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-01-22 15:53:17.079 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-01-22 15:53:17.080 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-01-22 15:53:17.080 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-01-22 15:53:17.081 LabApp] JupyterLab extension loaded from /home/aispark/Project/Facial_Rec/.venv/lib/python3.12/site-packages/jupyterlab
+[I 2026-01-22 15:53:17.081 LabApp] JupyterLab application directory is /home/aispark/Project/Facial_Rec/.venv/share/jupyter/lab
+[I 2026-01-22 15:53:17.081 LabApp] Extension Manager is 'pypi'.
+[I 2026-01-22 15:53:17.102 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-01-22 15:53:17.102 ServerApp] Registered jupyterlab_nvdashboard server extension
+[I 2026-01-22 15:53:17.102 ServerApp] jupyterlab_nvdashboard | extension was successfully loaded.
+[I 2026-01-22 15:53:17.103 ServerApp] Registered jupyterlab_nvidia_nsight server extension
+[I 2026-01-22 15:53:17.103 ServerApp] jupyterlab_nvidia_nsight | extension was successfully loaded.
+[I 2026-01-22 15:53:17.103 ServerApp] Serving notebooks from local directory: /home/aispark/Project/Facial_Rec
+[I 2026-01-22 15:53:17.103 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-01-22 15:53:17.103 ServerApp] http://localhost:11002/lab?token=d2467ace9d286da857d5fd0839deceea9467044f0a574a57
+[I 2026-01-22 15:53:17.103 ServerApp]     http://127.0.0.1:11002/lab?token=d2467ace9d286da857d5fd0839deceea9467044f0a574a57
+[I 2026-01-22 15:53:17.103 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-01-22 15:53:17.104 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/aispark/.local/share/jupyter/runtime/jpserver-78380-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:11002/lab?token=d2467ace9d286da857d5fd0839deceea9467044f0a574a57
+        http://127.0.0.1:11002/lab?token=d2467ace9d286da857d5fd0839deceea9467044f0a574a57
+[I 2026-01-22 15:53:17.110 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-01-22 15:53:20.776 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.24ms
+[W 2026-01-22 15:53:21.846 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2026-01-22 16:01:33.469 ServerApp] Uploading file to /FaceRecognition_Flask-main.zip
+[I 2026-01-22 16:09:33.817 ServerApp] Saving file at /FaceRecognition_Flask-main.zip
+[I 2026-01-22 16:16:27.670 ServerApp] New terminal with automatic name: 1
+[W 2026-01-22 16:16:27.891 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[W 2026-01-22 16:16:46.890 ServerApp] delete /FaceRecognition_Flask-main.zip
